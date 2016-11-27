@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>folder_new.png</file>
+        <file>img_print.png</file>
+        <file>view.png</file>
+        <file>img_reopen.png</file>
+        <file>copy.png</file>
+        <file>paste.png</file>
+        <file>rerun.png</file>
+        <file>cut.png</file>
+        <file>run.png</file>
+        <file>delete.png</file>
+        <file>save.png</file>
+    </qresource>
+</RCC>
